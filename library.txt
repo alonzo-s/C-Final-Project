@@ -1,0 +1,60 @@
+Pride and Prejudice,Jane,Austen,Book,1813,Romantic
+Moby-Dick,Herman,Melville,Book,1851,Adventure Fiction
+David Copperfield,Charles,Dickens,Book,1850,Fiction
+Madame Bovary,Gustave,Flaubert,Book,1856,Reliasm
+Pale Fire,Vladimir,Nabokov,Book,1962,Fiction
+The Sound and the Fury,William,Faulkner,Book,1929,Gothic
+One Hundred Years of Solitude,Gabriela,Marquez,Book,1970,Reliasm
+Crime and Punishment,Fyodor,Dostoevsky,Book,1866,Fiction
+The Way We Live Now,Anthony,Trollope,Book,1875,Satire
+Adventures Huckleberry Finn,Mark,Twain,Book,1884,Fiction
+Three Men in a Boat,Jerome,Jerome,Book,1889,Comedy
+Ulysses,James,Joyce,Book,1922,Modern
+The Great Gatsby,Scott,Fitzgerald,Book,1925,Tragedy
+Brave New World,Aldous,Huxley,Book,1932,Fiction
+The Trial,Franz,Kafka,Book,1925,Fiction
+The Big Sleep,Raymond,Chandler,Book,1939,Fiction
+The Plague,Albert,Camus,Book,1947,Fiction
+Nineteen Eighty-Four,George,Orwell,Book,1949,Fiction
+Charlotte's Web,EB,White,Book,1952,Fiction
+Lord of the Flies,William,Golding,Book,1954,Allegory
+Black Panther,Ryan,Coogler,Movie,2018,Action
+The Tribe,Myroslav,Slaboshpytskyi,Movie,2014,Drama
+Moonlight,Barry,Jenkins,Movie,2016,Drama
+The Social Network,David,Fincher,Movie,2010,Drama
+Holy Motors,Leos,Carax,Movie,2012,Drama
+Get Out,Jordan,Peele,Movie,2017,Horror
+The Master,Paul,Anderson,Movie,2012,Drama
+Roma,Alfonso,Cuaron,Movie,2018,Drama
+Mad Max-Fury Road,George,Miller,Movie,2015,Action
+Carol,Todd,Haynes,Movie,2015,Drama
+Parasite,Bong,Joon-ho,Movie,2019,Thriller
+12 Years a Slave,Steve,McQueen,Movie,2013,History
+The Irishman,Martin,Scoresese,Movie,2019,History
+Selma,Ava,DuVernay,Movie,2014,History
+Call Me By Your Name,Luca,Guadagnino,Movie,2017,Drama
+Lincoln,Steve,Spielberg,Movie,2012,History
+Wonder Woman,Patty,Jenkins,Movie,2017,Action
+Star Wars-The Last Jedi,Rian,Johnson,Movie,2017,Action
+Edge of Tomorrow,Doug,Liman,Movie,2014,Sci-Fi
+Tangerine,Sean,Baker,Movie,2015,Comedy
+Rolling in the Deep,Adele,,Music,2010,Pop
+Uptown Funk,Mark,Ronson,Music,2014,Funk
+Old Town Road,Lil Nas X,,Music,2019,Country Rap
+We Found Love,Rihanna,,Music,2014,Electro House
+Get Lucky,Daft,Punk,Music,2013,Disco Funk
+Royals,Lorde,,Music,2013,Pop
+Hotline Bling,Drake,,Music,2015,Contemporary R&B
+Runaway,Kanye,West,Music,2010,Hip Hop
+SICKO MODE,Travis,Scott,Music,2018,Rap
+Blank Space,Taylor,Swift,Music,2014,Electropop
+Happy,Pharrell,Williams,Music,2013,Pop
+This Is America,Donald,Glover,Music,2018,Trap
+Shape of You,Ed,Sheeran,Music,2017,Pop
+Wrecking Ball,Miley,Cyrus,Music,2013,Pop
+Just the Way You Are,Bruno,Mars,Music,2010,Pop
+Chandelier,Sia,,Music,2014,Pop
+Alright,Kendrick,Lamar,Music,2015,Rap
+Shallow,Bradley,Cooper,Music,2018,Country
+Despacito,Luis,Fonsi,Music,2019,Reggaeton
+Circles,Post,Malone,Music,2019,Pop
